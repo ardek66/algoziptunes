@@ -1,2 +1,2 @@
 * Algoziptunes
-Source codes from [[twitch.tv/algoziptunes]].
+Source codes from [[https://twitch.tv/algoziptunes]].
